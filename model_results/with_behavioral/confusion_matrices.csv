@@ -1,0 +1,49 @@
+Model,Horizon,Actual,Predicted,Count
+Logistic Regression,1-day,Down,Down,645
+Logistic Regression,1-day,Down,Up,212
+Logistic Regression,1-day,Up,Down,677
+Logistic Regression,1-day,Up,Up,267
+SVM,1-day,Down,Down,717
+SVM,1-day,Down,Up,140
+SVM,1-day,Up,Down,788
+SVM,1-day,Up,Up,156
+Random Forest,1-day,Down,Down,462
+Random Forest,1-day,Down,Up,395
+Random Forest,1-day,Up,Down,500
+Random Forest,1-day,Up,Up,444
+LSTM,1-day,Down,Down,299
+LSTM,1-day,Down,Up,558
+LSTM,1-day,Up,Down,356
+LSTM,1-day,Up,Up,588
+Logistic Regression,7-day,Down,Down,373
+Logistic Regression,7-day,Down,Up,395
+Logistic Regression,7-day,Up,Down,489
+Logistic Regression,7-day,Up,Up,537
+SVM,7-day,Down,Down,336
+SVM,7-day,Down,Up,432
+SVM,7-day,Up,Down,444
+SVM,7-day,Up,Up,582
+Random Forest,7-day,Down,Down,399
+Random Forest,7-day,Down,Up,369
+Random Forest,7-day,Up,Down,505
+Random Forest,7-day,Up,Up,521
+LSTM,7-day,Down,Down,146
+LSTM,7-day,Down,Up,622
+LSTM,7-day,Up,Down,270
+LSTM,7-day,Up,Up,756
+Logistic Regression,30-day,Down,Down,437
+Logistic Regression,30-day,Down,Up,276
+Logistic Regression,30-day,Up,Down,618
+Logistic Regression,30-day,Up,Up,437
+SVM,30-day,Down,Down,329
+SVM,30-day,Down,Up,384
+SVM,30-day,Up,Down,503
+SVM,30-day,Up,Up,552
+Random Forest,30-day,Down,Down,413
+Random Forest,30-day,Down,Up,300
+Random Forest,30-day,Up,Down,565
+Random Forest,30-day,Up,Up,490
+LSTM,30-day,Down,Down,27
+LSTM,30-day,Down,Up,686
+LSTM,30-day,Up,Down,99
+LSTM,30-day,Up,Up,956

@@ -1,0 +1,8 @@
+Group,Horizon,LSTM,Logistic Regression,Random Forest,SVM,Average
+Large cap,1-day,0.54,0.51,0.50,0.53,0.52
+,7-day,0.58,0.58,0.56,0.56,0.57
+,30-day,0.57,0.55,0.54,0.56,0.55
+Small-cap,1-day,0.48,0.56,0.50,0.48,0.50
+,7-day,0.50,0.52,0.52,0.48,0.51
+,30-day,0.47,0.46,0.50,0.40,0.46
+Average,,0.52,0.53,0.52,0.50,0.52
